@@ -4,7 +4,9 @@
       "Bash(mkdir:*)",
       "Bash(python:*)",
       "Bash(pip install:*)",
-      "Bash(chmod:*)"
+      "Bash(chmod:*)",
+      "Bash(git remote add:*)",
+      "Bash(git push:*)"
     ],
     "deny": [],
     "ask": [],
